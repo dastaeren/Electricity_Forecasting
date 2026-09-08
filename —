@@ -423,7 +423,7 @@ with st.sidebar:
 # ==============================================================================
 # Header
 # ==============================================================================
-st.title("Bhutan Urban Residential Electricity — 2026 Forecast")
+st.title("Bhutan Urban Residential Electricity (26 Forecast)")
 st.caption("Monthly consumption (GWh) · trained Jan 2015 – Dec 2024 · validated against the real "
            "Jan–Dec 2025 holdout · Seasonal Naive vs Holt-Winters vs SARIMA, best per dzongkhag.")
 
