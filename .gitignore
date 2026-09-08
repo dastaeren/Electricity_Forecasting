@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Claude Code local settings
+.claude/
+
+# Streamlit secrets (never commit credentials)
+.streamlit/secrets.toml
+
+# OS junk
+Thumbs.db
+.DS_Store
